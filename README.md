@@ -1,4 +1,4 @@
-# -Multiclass-Classification-
+# Separate-Discharge-Classification
 
 
 <p> data augmentation </p>
